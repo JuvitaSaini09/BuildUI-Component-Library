@@ -3,11 +3,13 @@
     font-size: 24px;
     color:white;
     margin-bottom: 4rem;
- 
-
 }
 .avatar-container{
-  margin-left: 3rem;
+  margin-left:0;
+  border:1px solid grey;
+  padding:25px;
+  width:80%;
+  background-color: rgb(248, 244, 244);
 }
 
 /* round avatar*/
