@@ -1,4 +1,3 @@
-
 @import url(/components/css/alert.css);
 @import url(/components/css/avatar.css);
 @import url(/components/css/badge.css);
@@ -13,6 +12,8 @@
 @import url(/components/css/rating.css);
 @import url(/components/css/text-ut.css);
 @import url(/components/css/toast.css);
+@import url(/docs/doc.css);
+
 /* Reset */
 
 
