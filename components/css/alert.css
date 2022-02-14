@@ -1,5 +1,4 @@
-
-.alert-container{
+alert-container{
     display:flex;
     flex-flow:wrap column;
     align-items:flex-start;
